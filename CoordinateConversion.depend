@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1608282488 source:d:\learncpp\coordinateconversion\main.cpp
+	<iostream>
+	<iomanip>
+	"constants.h"
+
+1608201893 source:d:\learncpp\coordinateconversion\conversions.cpp
+	<iostream>
+
+1608277659 d:\learncpp\coordinateconversion\constants.h
+
+1608265200 source:d:\learncpp\coordinateconversion\eastnorth2latlong.cpp
+	<iostream>
+
+1608277515 source:d:\learncpp\coordinateconversion\latlong2eastnorth.cpp
+	<iostream>
+
